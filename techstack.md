@@ -5,11 +5,11 @@ aryaniyaps/strawberry is built on the following main stack:
 
 - [Python](https://www.python.org) – Languages
 - [TypeScript](http://www.typescriptlang.org) – Languages
-- [Codecov](https://codecov.io/) – Code Coverage
-- [Shell](https://en.wikipedia.org/wiki/Shell_script) – Shells
-- [GitHub Actions](https://github.com/features/actions) – Continuous Integration
 - [FastAPI](https://fastapi.tiangolo.com/) – Microframeworks (Backend)
+- [Codecov](https://codecov.io/) – Code Coverage
 - [Docker](https://www.docker.com/) – Virtual Machine Platforms & Containers
+- [GitHub Actions](https://github.com/features/actions) – Continuous Integration
+- [Shell](https://en.wikipedia.org/wiki/Shell_script) – Shells
 
 Full tech stack [here](/techstack.md)
 
@@ -21,11 +21,11 @@ aryaniyaps/strawberry is built on the following main stack:
 
 - <img width='25' height='25' src='https://img.stackshare.io/service/993/pUBY5pVj.png' alt='Python'/> [Python](https://www.python.org) – Languages
 - <img width='25' height='25' src='https://img.stackshare.io/service/1612/bynNY5dJ.jpg' alt='TypeScript'/> [TypeScript](http://www.typescriptlang.org) – Languages
-- <img width='25' height='25' src='https://img.stackshare.io/service/2673/Codecov_Mark_Circle_Pink.png' alt='Codecov'/> [Codecov](https://codecov.io/) – Code Coverage
-- <img width='25' height='25' src='https://img.stackshare.io/service/4631/default_c2062d40130562bdc836c13dbca02d318205a962.png' alt='Shell'/> [Shell](https://en.wikipedia.org/wiki/Shell_script) – Shells
-- <img width='25' height='25' src='https://img.stackshare.io/service/11563/actions.png' alt='GitHub Actions'/> [GitHub Actions](https://github.com/features/actions) – Continuous Integration
 - <img width='25' height='25' src='https://img.stackshare.io/service/25014/default_f6ff39141b468e832d1bc59fc98a060df604d44d.png' alt='FastAPI'/> [FastAPI](https://fastapi.tiangolo.com/) – Microframeworks (Backend)
+- <img width='25' height='25' src='https://img.stackshare.io/service/2673/Codecov_Mark_Circle_Pink.png' alt='Codecov'/> [Codecov](https://codecov.io/) – Code Coverage
 - <img width='25' height='25' src='https://img.stackshare.io/service/586/n4u37v9t_400x400.png' alt='Docker'/> [Docker](https://www.docker.com/) – Virtual Machine Platforms & Containers
+- <img width='25' height='25' src='https://img.stackshare.io/service/11563/actions.png' alt='GitHub Actions'/> [GitHub Actions](https://github.com/features/actions) – Continuous Integration
+- <img width='25' height='25' src='https://img.stackshare.io/service/4631/default_c2062d40130562bdc836c13dbca02d318205a962.png' alt='Shell'/> [Shell](https://en.wikipedia.org/wiki/Shell_script) – Shells
 
 Full tech stack [here](/techstack.md)
 
@@ -36,7 +36,7 @@ Full tech stack [here](/techstack.md)
 # Tech Stack File
 ![](https://img.stackshare.io/repo.svg "repo") [aryaniyaps/strawberry](https://github.com/aryaniyaps/strawberry)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
-|23<br/>Tools used|01/20/24 <br/>Report generated|
+|23<br/>Tools used|02/29/24 <br/>Report generated|
 |------|------|
 </div>
 
@@ -140,7 +140,7 @@ Full tech stack [here](/techstack.md)
 |NAME|VERSION|LAST UPDATED|LAST UPDATED BY|LICENSE|VULNERABILITIES|
 |:------|:------|:------|:------|:------|:------|
 |[Django](https://pypi.org/project/Django)|v3.2|12/01/22|Patrick Arminio |BSD-3-Clause|[CVE-2023-31047](https://github.com/advisories/GHSA-r3xc-prgr-mg9p) (Critical)<br/>[CVE-2022-28347](https://github.com/advisories/GHSA-w24h-v9qh-8gxj) (Critical)<br/>[CVE-2021-35042](https://github.com/advisories/GHSA-xpfp-f569-q3p2) (Critical)<br/>[CVE-2022-28346](https://github.com/advisories/GHSA-2gwj-7jmv-h26r) (Critical)<br/>[CVE-2021-45115](https://github.com/advisories/GHSA-53qw-q765-4fww) (High)<br/>[CVE-2021-44420](https://github.com/advisories/GHSA-v6rh-hp5x-86rv) (High)<br/>[CVE-2021-31542](https://github.com/advisories/GHSA-rxjp-mfm9-w4wr) (High)<br/>[CVE-2022-36359](https://github.com/advisories/GHSA-8x94-hmjh-97hq) (High)<br/>[CVE-2023-24580](https://github.com/advisories/GHSA-2hrw-hx67-34x6) (High)<br/>[CVE-2021-45116](https://github.com/advisories/GHSA-8c5j-9r9f-c6w8) (High)<br/>[CVE-2023-36053](https://github.com/advisories/GHSA-jh3w-4vvf-mjgr) (High)<br/>[CVE-2021-32052](https://github.com/advisories/GHSA-qm57-vhq3-3fwf) (Moderate)<br/>[CVE-2021-45452](https://github.com/advisories/GHSA-jrh2-hc4r-7jwx) (Moderate)|
-|[aiohttp](https://pypi.org/project/aiohttp)|v3.8.3|12/01/22|Patrick Arminio |Apache-2.0|[CVE-2023-49081](https://github.com/advisories/GHSA-q3qx-c6g2-7pw2) (High)<br/>[](https://github.com/advisories/GHSA-pjjw-qhg8-p2p9) (Moderate)<br/>[CVE-2023-49082](https://github.com/advisories/GHSA-qvrw-v9rv-5rjx) (Moderate)<br/>[CVE-2023-47627](https://github.com/advisories/GHSA-gfw2-4jvh-wgfg) (Moderate)<br/>[CVE-2023-37276](https://github.com/advisories/GHSA-45c4-8wx5-qw6w) (Moderate)|
+|[aiohttp](https://pypi.org/project/aiohttp)|v3.8.3|12/01/22|Patrick Arminio |Apache-2.0|[CVE-2023-49081](https://github.com/advisories/GHSA-q3qx-c6g2-7pw2) (High)<br/>[CVE-2024-23334](https://github.com/advisories/GHSA-5h86-8mv2-jq9f) (Moderate)<br/>[CVE-2023-47627](https://github.com/advisories/GHSA-gfw2-4jvh-wgfg) (Moderate)<br/>[](https://github.com/advisories/GHSA-pjjw-qhg8-p2p9) (Moderate)<br/>[CVE-2023-49082](https://github.com/advisories/GHSA-qvrw-v9rv-5rjx) (Moderate)<br/>[CVE-2023-37276](https://github.com/advisories/GHSA-45c4-8wx5-qw6w) (Moderate)<br/>[CVE-2024-23829](https://github.com/advisories/GHSA-8qpw-xqxj-h4r2) (Moderate)|
 |[asgiref](https://pypi.org/project/asgiref)|v3.6.0|09/27/22|Huon Wilson |BSD-3-Clause|N/A|
 |[chalice](https://pypi.org/project/chalice)|v1.27.3|11/24/21|Mark Sheehan |Apache-2.0|N/A|
 |[channels](https://pypi.org/project/channels)|v3.0.5|08/12/22|Dan Sloan |BSD-3-Clause|N/A|
@@ -151,7 +151,7 @@ Full tech stack [here](/techstack.md)
 |[pydantic](https://pypi.org/project/pydantic)|v1.10.4|08/06/21|Patrick Arminio |MIT|N/A|
 |[python-dateutil](https://pypi.org/project/python-dateutil)|v2.8.2|01/11/23|Nir |NRL|N/A|
 |[sanic](https://pypi.org/project/sanic)|v22.12.0|12/05/22|Patrick Arminio |MIT|N/A|
-|[starlette](https://pypi.org/project/starlette)|v0.22.0|12/04/22|Patrick Arminio |BSD-3-Clause|[](https://github.com/advisories/GHSA-qj8w-rv5x-2v9h) (High)<br/>[CVE-2023-30798](https://github.com/advisories/GHSA-3qj8-93xh-pwh2) (High)<br/>[](https://github.com/advisories/GHSA-74m5-2c7w-9w3x) (Moderate)<br/>[CVE-2023-29159](https://github.com/advisories/GHSA-v5gw-mw7f-84px) (Low)|
+|[starlette](https://pypi.org/project/starlette)|v0.22.0|12/04/22|Patrick Arminio |BSD-3-Clause|[CVE-2024-24762](https://github.com/advisories/GHSA-2jv5-9r88-3w3p) (High)<br/>[](https://github.com/advisories/GHSA-93gm-qmq6-w238) (High)<br/>[](https://github.com/advisories/GHSA-qj8w-rv5x-2v9h) (High)<br/>[CVE-2023-30798](https://github.com/advisories/GHSA-3qj8-93xh-pwh2) (High)<br/>[](https://github.com/advisories/GHSA-74m5-2c7w-9w3x) (Moderate)<br/>[CVE-2023-29159](https://github.com/advisories/GHSA-v5gw-mw7f-84px) (Low)|
 |[uvicorn](https://pypi.org/project/uvicorn)|v0.20.0|12/04/22|Patrick Arminio |BSD-3-Clause|N/A|
 
 <br/>
